@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Kayla Arns
+//September 18,2020
+//Counts the vowels in a line of text
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
